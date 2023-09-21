@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin:0;
+    
+}
+body{
+background-color: #6495ed !important;
+  
+}
+.row.card-apt {
+    margin: 10% 0% 0% 30%;
+}
+.card.ver {
+    width: 280px;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0ffff;
+    padding: 10px;
+}
+.pro-img {
+    
+    width: 180px;
+    margin: 0px 0px 15px 0px;
+  
+}
+img.card-img.img-pro {
+    border-radius: 50%;
+}
+.pro-img {
+    width: 180px;
+    margin-top: 10px;
+}
+p.details {
+    margin-bottom: 5px;
+    font-weight: 300;
+}
+.card-wrapper {
+    display: flex;
+}
+.user {
+    width: 30%;
+    margin-bottom: 10px;
+}
+button.btn.btn-primary {
+    width: 100%;
+}
+.signform {
+    text-align: -webkit-center;
+    margin-top: 15%;
+}
+a.log_link {
+    color: cornsilk;
+}
